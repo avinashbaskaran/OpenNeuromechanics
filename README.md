@@ -1,2 +1,2 @@
 # OpenNeuromechanics
-An open-source suite for neuromechanical modeling for applications in rehabilitation, assistance and augmentation, training and performance, as well as sensor and robotics development
+An open-source suite of neuromechanical modeling tools and applications for research in rehabilitation, movement augmentation, motor training, and sensor and robotics development
